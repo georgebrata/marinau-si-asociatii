@@ -1,28 +1,10 @@
 # Marinău și Asociații
 
-Modern and minimalist landing page for local law company built with Nuxt 2 and Tailwindcss 3.
+Modern and minimalist landing page for local law company built with Nuxt 2, Tailwindcss 3 and nuxt.includes filters, product photos gallery, mega menu and many other beautiful features.
 
 > [Demo](https://marinausiasociatii.ro/)
 
-![Thumbnail](assets/img/thumbnail.jpg)
-
-## Project Structure
-
-.  
-├── assets  
-│ ├── css  
-│ └── img  
-├── components  
-│ └── base  
-├── layouts  
-├── mixins  
-├── pages  
-├── plugins  
-├── static  
-├── README.md  
-├── nuxt.config.js  
-├── package.json  
-└── tailwind.config.js  
+![Thumbnail](assets/img/thumbnail.jpg) 
 
 ## Getting Started
 
